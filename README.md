@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🏢 I am a **Pentester**
+- 🏢 I am a **Sysadmin|Cibersecurity|Pentester**
 - 🏢 Former **CompTIA Pentes+** at [CompTIA](https://[www.comptia.org]/)
 - 🏢 Former **CompTIA A+** at [CompTIA](https://[www.comptia.org]/)
 - 🎓 Studies for ESO at [Institute IES MENENDEZ TOLOSA]
