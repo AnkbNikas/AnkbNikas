@@ -50,14 +50,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnkbNikas)](https://github.com/AnkbNikas/github-profile-trophy)
 
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnkbNikas&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 Credit: [AnkbNikas](https://github.com/AnkbNikas)
