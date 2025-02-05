@@ -31,8 +31,12 @@
 
 ## Featured Projects 🚀:
 
-- [**Project Alpha**](https://github.com/AnkbNikas/project-alpha) - A penetration testing tool for network security.
-- [**Cyber Defense Dashboard**](https://github.com/AnkbNikas/cyber-defense-dashboard) - A comprehensive dashboard for monitoring and managing cybersecurity threats.
+- [**VulnScanner**][(https://github.com/AnkbNikas/project-alpha](https://github.com/AnkbNikas/VulnScanner.git) - Es una herramienta de automatización para realizar escaneos de vulnerabilidades en aplicaciones web utilizando OWASP ZAP, SQLmap, y Dependency-Check. También envía notificaciones por correo electrónico con los resultados de los escaneos.
+
+- [**StealthScanner**][[(https://github.com/AnkbNikas/project-alpha]](https://github.com/AnkbNikas/StealthScanner.git) - Is a Python-based reconnaissance tool designed for ethical hacking and penetration testing. It performs various scanning and enumeration tasks in a stealthy manner to minimize detection.
+
+- [**SecuScanner**]
+[(https://github.com/AnkbNikas/cyber-defense-dashboard)](https://github.com/AnkbNikas/SecuScanner.git) - Detecta vulnerabilidades básicas en sistemas Windows y Linux. Verifica puertos abiertos, permisos de archivos críticos, estado de servicios y paquetes de software desactualizados. Además, registra todas las actividades y resultados en un archivo de log.
 
 ## Connect with Me ☕:
 
