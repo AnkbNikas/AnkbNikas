@@ -1,57 +1,82 @@
-<div align="center" width="50">
-    <img alt="https://www.linkedin.com/in/nieves-kaskero/" src="./assets/oh hi there.png" width="300"/>
+<div align="center">
+    <img src="./assets/oh_hi_there.png" alt="Oh hi there!" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nieves Casquero  </h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnkbNikas?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnkbNikas?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnkbNikas.repoName) <img src="https://komarev.com/ghpvc/?username=AnkbNikas" alt="AnkbNikas" />
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Nieves Casquero</h1>
 
-## About Me :
+<p align="center">
+    <a href="https://github.com/AnkbNikas?tab=followers">
+        <img src="https://img.shields.io/github/followers/AnkbNikas?style=social" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/AnkbNikas?tab=repositories">
+        <img src="https://img.shields.io/github/stars/AnkbNikas?style=social" alt="GitHub stars" />
+    </a>
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=AnkbNikas.repoName">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=AnkbNikas.repoName" alt="Visitor" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=AnkbNikas">
+        <img src="https://komarev.com/ghpvc/?username=AnkbNikas" alt="Profile views" />
+    </a>
+</p>
 
-- 🏢 I am a **Sysadmin|Cibersecurity|Pentester**
-- 🏢 Former **CompTIA Pentes+** at [CompTIA](https://[www.comptia.org]/)
-- 🏢 Former **CompTIA A+** at [CompTIA](https://[www.comptia.org]/)
-- 🎓 Studies for ESO at [Institute IES MENENDEZ TOLOSA]
-- 🏡 Lives in **Spain**
-- ⚡ **Fun Facts** : 🍕 🎥 🚞
+## About Me:
 
-<br>
+- 🛡️ I am a **Cybersecurity Specialist | Pentester | Sysadmin**
+- 🕵️‍♂️ Conducting penetration tests to uncover and mitigate vulnerabilities
+- 🔐 Focused on strengthening security protocols and implementing best practices
+- 📜 Former **CompTIA Pentest+** and **CompTIA A+** certified professional at [CompTIA](https://www.comptia.org/)
+- 🎓 ESO graduate from [IES Menéndez Tolosa](https://example.com)
+- 🌍 Based in **Spain**
+- ⚡ **Fun Facts**: 🍕 🎥 🚞
 
-## Connect with me ☕ :
+## Featured Projects 🚀:
 
-<br>
+- [**Project Alpha**](https://github.com/AnkbNikas/project-alpha) - A penetration testing tool for network security.
+- [**Cyber Defense Dashboard**](https://github.com/AnkbNikas/cyber-defense-dashboard) - A comprehensive dashboard for monitoring and managing cybersecurity threats.
 
- [![@nievescasquero](https://img.icons8.com/fluency/48/000000/linkedin.png "@nievescasquero")](https://www.linkedin.com/in/nieves-kaskero/) 
+## Connect with Me ☕:
 
-<br>
+<p align="center">
+    <a href="https://www.linkedin.com/in/nieves-kaskero/">
+        <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+</p>
 
-## What I am Good at 🧑‍💻 :
+## Cybersecurity and Pentesting Skills 🛠️:
 
-<br>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,docker,linux,windows,bash" alt="Skills" />
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=kali,github,raspberrypi,vscode,ansible" alt="Skills" />
+    </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,docker,github,py,html,=3)](https://skillicons.dev)
+## GitHub Stats 📈:
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,notion,obsidian,vscodium,=3)](https://skillicons.dev)
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkbNikas&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/AnkbNikas/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=AnkbNikas&theme=algolia" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AnkbNikas/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkbNikas&theme=algolia" alt="Top Languages" />
+    </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,windows,linux&mongodb=3)](https://skillicons.dev)
+## GitHub Trophies 🏆:
 
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnkbNikas&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnkbNikas GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkbNikas&theme=algolia)](https://github.com/AnkbNikas/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkbNikas&theme=algolia)](https://github.com/AnkbNikas/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnkbNikas)](https://github.com/AnkbNikas/github-profile-trophy)
+<p align="center">
+    <a href="https://github.com/AnkbNikas/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=AnkbNikas" alt="GitHub Trophies" />
+    </a>
+</p>
 
 ---
 
 Credit: [AnkbNikas](https://github.com/AnkbNikas)
 
-Last edited on: 03/11/2024
+*Last edited on: 03/11/2024*
