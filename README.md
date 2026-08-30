@@ -59,6 +59,7 @@ Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento R
 
 | Proyecto | Descripción |
 |---|---|
+| **[PDF Forense](https://github.com/AnkbNikas/pdf-forense)** | Detecta revisiones ocultas (actualizaciones incrementales) y redacciones defectuosas en documentos PDF, para peritaje informático. |
 | **[Captura Forense](https://github.com/AnkbNikas/captura-forense)** | Detecta indicios de edición en imágenes/capturas de pantalla: metadatos EXIF y Error Level Analysis (ELA), para peritaje informático. |
 | **[Cadena de Custodia Digital](https://github.com/AnkbNikas/cadena-custodia)** | Genera actas de cadena de custodia para peritaje: hashes forenses SHA-256/SHA-1/MD5 y sello de tiempo RFC 3161, conforme a ISO/IEC 27037. |
 | **[Advanced Bug Bounty Tool](https://github.com/AnkbNikas/Advanced_Bug_Bounty_Tool)** | Suite de reconocimiento y explotación para bug bounty (Nmap, Nikto, SQLmap, WPScan, API de SecurityTrails). |
