@@ -84,14 +84,6 @@ Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento R
 
 <br/>
 
-## Logros en GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkbNikas&theme=onedark&no-frame=true&column=4" alt="Trofeos de GitHub" />
-</p>
-
-<br/>
-
 ## Contacto
 
 <p align="center">
