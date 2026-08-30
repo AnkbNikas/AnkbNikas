@@ -59,6 +59,7 @@ Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento R
 
 | Proyecto | Descripción |
 |---|---|
+| **[Email Forense](https://github.com/AnkbNikas/email-forense)** | Analiza correos .eml en busca de phishing: fallos SPF/DKIM/DMARC, discrepancias de remitente, enlaces y adjuntos de riesgo. |
 | **[QR Forense](https://github.com/AnkbNikas/quishing-detector)** | Analiza el riesgo de phishing (quishing) de un código QR sin visitarlo: suplantación de marca, trucos de URL y TLDs sospechosos. |
 | **[PDF Forense](https://github.com/AnkbNikas/pdf-forense)** | Detecta revisiones ocultas (actualizaciones incrementales) y redacciones defectuosas en documentos PDF, para peritaje informático. |
 | **[Captura Forense](https://github.com/AnkbNikas/captura-forense)** | Detecta indicios de edición en imágenes/capturas de pantalla: metadatos EXIF y Error Level Analysis (ELA), para peritaje informático. |
