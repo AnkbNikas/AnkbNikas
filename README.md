@@ -66,8 +66,13 @@ Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento R
 ## Stack Técnico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,windows,bash&theme=dark" alt="Stack técnico: Python, Docker, Linux, Windows, Bash" />
-  <img src="https://skillicons.dev/icons?i=kali,github,raspberrypi,vscode,ansible&theme=dark" alt="Herramientas: Kali Linux, GitHub, Raspberry Pi, VS Code, Ansible" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,bash,powershell&theme=dark" alt="Lenguajes y scripting: Python, PHP, JavaScript, HTML, CSS, Bash, PowerShell" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,raspberrypi,docker,git,github&theme=dark" alt="Sistemas y entornos: Linux, Windows, Kali Linux, Raspberry Pi, Docker, Git, GitHub" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,postman,mysql,redis,wordpress,ansible,regex&theme=dark" alt="Herramientas y bases de datos: VS Code, Vim, Postman, MySQL, Redis, WordPress, Ansible, Regex" />
 </p>
 
 <br/>
