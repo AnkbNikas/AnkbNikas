@@ -28,6 +28,7 @@
 - 🧑‍⚖️ **Perito Informático de Parte**, Colegiada AEPEJU — elaboración de informes periciales informáticos
 - 🔎 Investigadora activa de **Bug Bounty** en Bugcrowd y YesWeHack
 - 🧬 Formación e interés en **forense digital (DFIR)**: análisis de memoria, imágenes de disco y evidencia digital
+- 🎤 Organizadora de **CiberEstrechoCON**, comunidad de ciberseguridad del Campo de Gibraltar
 - 🌍 Disponible para colaboraciones y proyectos de **auditoría RGPD, hacking ético y peritaje informático** en España y en remoto
 
 ## 🎓 Certificaciones
@@ -45,6 +46,7 @@ Ofrezco servicios profesionales de auditoría de ciberseguridad, pentesting, per
 
 ## 🚀 Proyectos Destacados
 
+- 🎯 [**Advanced Bug Bounty Tool**](https://github.com/AnkbNikas/Advanced_Bug_Bounty_Tool) — Suite de reconocimiento y explotación para bug bounty (Nmap, Nikto, SQLmap, WPScan, API de SecurityTrails) orientada a pentesters.
 - 🔧 [**VulnScanner**](https://github.com/AnkbNikas/VulnScanner) — Herramienta de automatización para escaneo de vulnerabilidades en aplicaciones web (OWASP ZAP, SQLmap, Dependency-Check), con notificaciones por correo electrónico.
 - 🕶️ [**StealthScanner**](https://github.com/AnkbNikas/StealthScanner) — Herramienta de reconocimiento en Python para hacking ético y pentesting, diseñada para minimizar la detección durante el escaneo y la enumeración.
 - 🖥️ [**SecuScanner**](https://github.com/AnkbNikas/SecuScanner) — Detector de vulnerabilidades básicas en Windows y Linux: puertos abiertos, permisos de archivos críticos, estado de servicios y software desactualizado, con registro de actividad en log.
