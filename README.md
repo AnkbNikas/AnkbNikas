@@ -95,6 +95,9 @@ Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento R
   <a href="https://www.linkedin.com/in/nieves-kaskero/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nieves Casquero" />
   </a>
+  <a href="https://www.instagram.com/nieves.cibersecurity">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Nieves Casquero" />
+  </a>
   <a href="https://nievescasquero.github.io">
     <img src="https://img.shields.io/badge/Web-102a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web profesional de Nieves Casquero" />
   </a>
