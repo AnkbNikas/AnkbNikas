@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-Especialista en **ciberseguridad ofensiva**, con base en La Línea de la Concepción (Cádiz) y disponible en remoto para toda España. Realizo auditorías de seguridad y pentesting en aplicaciones web y sistemas, además de informes periciales informáticos como **Perito Informático de Parte** (Colegiada AEPEJU). Cazadora de vulnerabilidades activa en **Bugcrowd, YesWeHack y HackerOne** — el mismo rigor técnico que aplico en cada auditoría. Organizo **CiberEstrechoCON**, comunidad de ciberseguridad del Campo de Gibraltar.
+Especialista en **ciberseguridad ofensiva**, con base en La Línea de la Concepción (Cádiz) y disponible en remoto para toda España. Realizo auditorías de ciberseguridad, pentesting y protección digital para **pymes y empresas**, informes de cumplimiento RGPD para **licitaciones públicas**, y peritaje informático como **Perito Informático de Parte** (Colegiada AEPEJU). Cazadora de vulnerabilidades activa en **Bugcrowd, YesWeHack y HackerOne** — el mismo rigor técnico que aplico en cada auditoría. Organizo **CiberEstrechoCON**, comunidad de ciberseguridad del Campo de Gibraltar.
 
 **Áreas de trabajo:**
 - Pentesting y auditorías de seguridad web/infraestructura
@@ -42,11 +42,14 @@ Especialista en **ciberseguridad ofensiva**, con base en La Línea de la Concepc
 
 ## Servicios de Ciberseguridad
 
-Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento RGPD para empresas y particulares.
+Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento RGPD para empresas y particulares. Consulta gratuita, sin compromiso. Presupuesto cerrado antes de empezar.
 
 <p>
-  <a href="https://nievescasquero.github.io">
-    <img src="https://img.shields.io/badge/Ver%20servicios%20y%20precios-c1121f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar nievescasquero.github.io" />
+  <a href="https://nievescasquero.github.io/index.html#contacto">
+    <img src="https://img.shields.io/badge/Consulta%20gratuita-c1121f?style=for-the-badge" alt="Solicitar consulta gratuita" />
+  </a>
+  <a href="https://nievescasquero.github.io/servicios.html">
+    <img src="https://img.shields.io/badge/Ver%20servicios%20y%20precios-102a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar nievescasquero.github.io/servicios.html" />
   </a>
 </p>
 
