@@ -68,6 +68,7 @@ Auditoría de ciberseguridad, pentesting, peritaje informático y cumplimiento R
 | **[VulnScanner](https://github.com/AnkbNikas/VulnScanner)** | Automatización de escaneo de vulnerabilidades web con OWASP ZAP, SQLmap y Dependency-Check, con notificaciones por email. |
 | **[StealthScanner](https://github.com/AnkbNikas/StealthScanner)** | Reconocimiento en Python para hacking ético, diseñado para minimizar la detección durante el escaneo. |
 | **[SecuScanner](https://github.com/AnkbNikas/SecuScanner)** | Detección de vulnerabilidades básicas en Windows y Linux con registro de actividad en log. |
+| **[DocuSello](https://github.com/AnkbNikas/DocuSello)** | Tapa campos sensibles y sella la finalidad de un documento (foto o PDF) antes de compartirlo — firma, fecha y trámite quedan visibles en el propio archivo, todo procesado en el navegador sin subir nada a servidores. |
 
 <br/>
 
